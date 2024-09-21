@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alice",
+        "age": 20,
+        "department": "Computer Science",
+        "marks": 85
+    },
+    {
+        "name": "Bob",
+        "age": 22,
+        "department": "Mechanical Engineering",
+        "marks": 78
+    },
+    {
+        "name": "Charlie",
+        "age": 21,
+        "department": "Electrical Engineering",
+        "marks": 92
+    },
+    {
+        "name": "David",
+        "age": 23,
+        "department": "Civil Engineering",
+        "marks": 74
+    },
+    {
+        "name": "Eva",
+        "age": 20,
+        "department": "Biotechnology",
+        "marks": 88
+    }
+]
