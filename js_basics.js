@@ -152,3 +152,5 @@ console.log(parseInt('27')-parseInt('21'));
 
 let str = "hello olivia"
 console.log(str.indexOf('l',3))
+
+
