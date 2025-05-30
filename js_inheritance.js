@@ -14,3 +14,9 @@ let pet = new Pet("Leo", "Syh")
 
 pet.fullName()
 console.log(pet.location);
+
+// Helpful
+// Ethical
+// Leading Change
+// Performing
+// Simple
